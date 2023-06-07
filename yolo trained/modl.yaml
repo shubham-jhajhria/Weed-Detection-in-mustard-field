@@ -1,0 +1,7 @@
+path: C:\Users\BEAST\Favorites\pract 4/
+train: 'Weed_Detection5a431d7/data' 
+val: 'Weed_Detection5a431d7/data1' 
+# class names
+names: 
+  0: 'crop'
+  1: 'weed'
